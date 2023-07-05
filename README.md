@@ -6,7 +6,7 @@
 * 'ports.csv' = database with port names and port location // 4 columns: ports latitude, ports longitude, ports name, ports UN-PortCode
 
 ## Questions/Tasks
-**Q 1**: What ports have been called by the ship. provide a list of unqiue ports of call.
-**Q 2**: What was the total sailing time?
-**Q 3**: How much time did the ship spend in each port?
-**Q 4**: Plot the speed profile between 2 ports of your choice.
+* **Q 1**: What ports have been called by the ship. provide a list of unqiue ports of call.
+* **Q 2**: What was the total sailing time?
+* **Q 3**: How much time did the ship spend in each port?
+* **Q 4**: Plot the speed profile between 2 ports of your choice.
