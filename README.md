@@ -1,6 +1,6 @@
 # _pyTest_Ports
 ## analyse sailing data to find ports of call and compute some statistics
-we have to find out what our ship did during sailing. there are various questions. please start with the mandatory questions. if done, feel free to pick any question from the "Optional" section
+we have to find out what our ship did during sailing. there are various questions. please start with the mandatory-questions. if done, feel free to pick any question from the optional-questions
 
 ## Two files can be found in subfolder data
 * 'data.csv' = data received from one of our ships during sailing // 4 columns: utc_time;Latitude;Longitude;SpeedOverGround
