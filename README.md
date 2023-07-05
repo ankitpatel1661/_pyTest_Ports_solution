@@ -10,3 +10,7 @@
 * **Q 2**: What was the total sailing time?
 * **Q 3**: How much time did the ship spend in each port?
 * **Q 4**: Plot the speed profile between 2 ports of your choice.
+* **Q 5**: Can you please find out if data is missing. Expected frequency is 3min? please provide proof of your result.
+
+* **Q 5**: What was the highest average speed done between two ports?
+
