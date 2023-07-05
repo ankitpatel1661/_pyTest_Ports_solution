@@ -16,5 +16,6 @@ we have to find out what our ship did during sailing. there are various question
 * **Q 5**: How much time did the ship spend in each port?
 * **Q 6**: What was the highest average speed done between two ports?
 * **Q 7**: What was the longest/shortest port call?
-* **Q 8**: Can you compute the distance between two ports, using Latitude and Longitude data?
+* **Q 8**: What was the total distance sailed?
+* **Q 9**: Can you compute the distance between two ports, using Latitude and Longitude data?
 
