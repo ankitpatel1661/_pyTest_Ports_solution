@@ -15,4 +15,5 @@
 ## Just in case ...
 * **Q 6**: What was the highest average speed done between two ports?
 * **Q 7**: What was the longest/shortest port call?
+* **Q 8**: Can you compute the distance between two ports, using Latitude and Longitude data?
 
